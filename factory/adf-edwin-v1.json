@@ -1,0 +1,9 @@
+{
+	"name": "adf-edwin-v1",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60dc1055-d786-426f-8073-8ef70fa13223",
+		"tenantId": "559e11e8-b0c8-48af-9cbf-2753323e9a3c"
+	}
+}

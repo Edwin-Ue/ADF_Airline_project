@@ -1,0 +1,17 @@
+{
+	"name": "ls_fs_eu_v1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\ADF_Project_Airline",
+			"userId": "edwin.ueberschaer@bearingpoint.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4ZDcwZWE4NC1mNDZlLTQxOWMtYWQ3MC02MGRkNDE4YTdhNDgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "SelHosted-V1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
